@@ -1,0 +1,21 @@
+body {
+  overflow: hidden;
+  background-color: #2b2b2b;
+}
+
+.heading {
+  font-family: "Emblema One", cursive;
+  font-size: 40px;
+  text-align: center;
+  color: #fff;
+  margin: 0;
+}
+
+.container {
+  height: 75vh;
+  width: 100%;
+}
+.container svg {
+  height: 100%;
+  width: 100%;
+}
